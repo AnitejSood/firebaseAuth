@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 100px;
 }
 
 .App-logo {
@@ -35,4 +38,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.App-login {
+  align-items: left;
+  text-transform: uppercase;
 }
